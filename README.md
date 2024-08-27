@@ -1,1 +1,1 @@
-# -Well-Trajectory-and-Fracture-Analysis
+# Well-Trajectory-and-Fracture-Analysis
